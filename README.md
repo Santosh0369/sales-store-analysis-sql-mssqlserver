@@ -12,39 +12,45 @@ The retail business lacks visibility into key performance areas, leading to miss
 Top-selling products and categories
 Customer preferences and buying patterns
 High-profit vs low-profit items
-Issues in delivery performance and order fulfillment
+Issues in delivery performance and order fulfilment
 
 This results in poor decision-making, customer dissatisfaction, and reduced profitability.
 
 💡 Objective
 
-To analyze sales data and build intuitive reports that:
-
+To analyse sales data and build intuitive reports that:
 Identify top-performing products and categories
-Understand customer segments and purchasing behavior
+Understand customer segments and purchasing behaviour
 Highlight profit drivers and loss-making areas
 Detect operational inefficiencies in delivery and order processing
+
+
 🛠️ Tools & Technologies
 SQL (MySQL / SQL Server) – Data cleaning, transformation, and querying
-Python (Pandas, Matplotlib / Seaborn) – Data analysis and visualization
+Python (Pandas, Matplotlib / Seaborn) – Data analysis and visualisation
 Power BI / Tableau – Interactive dashboards and business insights
 Excel – Data preprocessing and quick analysis
+
+
 📈 Key Analysis Performed
 Sales trend analysis (daily, monthly, yearly)
 Product category performance
-Customer segmentation and behavior analysis
+Customer segmentation and behaviour analysis
 Profitability analysis by product and region
 Delivery performance (delays, shipping efficiency)
 Order status analysis
+
+
 📊 Key Insights
 Identified top-selling and most profitable product categories
 Highlighted products generating high sales but low profit margins
 Discovered customer segments contributing most to revenue
 Detected delays in delivery affecting customer experience
 Found regions with high sales but operational inefficiencies
+
 🚀 Business Impact
-Helps optimize product inventory and pricing strategies
-Improves customer targeting and personalization
+Helps optimise product inventory and pricing strategies
+Improves customer targeting and personalisation
 Enhances delivery and logistics performance
 Supports data-driven decision-making for higher profitability
 📌 Conclusion
