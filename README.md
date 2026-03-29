@@ -16,9 +16,10 @@ Lack of insights on:
 - Improve profitability
 - Optimize operations
 
-<img width="863" height="561" alt="image" src="https://github.com/user-attachments/assets/ea46ffba-8ce7-48e3-874a-8bbb7338a3bc" />
+# Detailed Analysis using MS SQL Server and SSMS
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/ea46ffba-8ce7-48e3-874a-8bbb7338a3bc" />
 
-<img width="926" height="476" alt="image" src="https://github.com/user-attachments/assets/96abd132-fc71-4d92-ad26-0f4670e75b53" />
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/96abd132-fc71-4d92-ad26-0f4670e75b53" />
 
 <img width="649" height="627" alt="image" src="https://github.com/user-attachments/assets/59b43b06-fd6c-42ba-a540-0fd510f2f3e4" />
 
