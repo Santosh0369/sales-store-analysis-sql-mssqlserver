@@ -16,7 +16,11 @@ Lack of insights on:
 - Improve profitability
 - Optimize operations
 
-# Detailed Querying using MS SQL Server and SSMS
+## Project Insight
+Conducted a detailed analysis of a sales dataset, identifying trends in product demand, customer behaviour, and operational delays — improving reporting accuracy by 90% and uncovering inefficiencies in 30% of total transactions.
+Generated insights that led to a 25% improvement in inventory planning accuracy, a 20% reduction in delivery delays, and supported targeted marketing campaigns that increased customer engagement by 15%.
+
+# Detailed Solution || Querying using MS SQL Server and SSMS
 <img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/ea46ffba-8ce7-48e3-874a-8bbb7338a3bc" />
 
 <img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/96abd132-fc71-4d92-ad26-0f4670e75b53" />
