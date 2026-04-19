@@ -59,26 +59,41 @@ The dataset consists of the following key tables/files:
 
 ## 3. 🧹 Data Cleaning
 
-### 1. Step 1:- To check for Duplicate 
+### Step 1:- To check for Duplicate 
 * Check for Duplicates
  <img width="418" height="297" alt="image" src="https://github.com/user-attachments/assets/83f33850-0c99-48e1-a5c8-ad6505f2df3a" />
 * Deleting Duplicates
  <img width="747" height="337" alt="image" src="https://github.com/user-attachments/assets/6cd7b895-810a-4cf2-97c2-3086ee595273" />
 
-### 2. Step 2:- Correction of Headers
+### Step 2:- Correction of Headers
 * Checking Column Headers
  <img width="1148" height="220" alt="image" src="https://github.com/user-attachments/assets/61dd6a07-7623-47a6-8681-6434e27c263e" />
 * After Correction
  <img width="1122" height="260" alt="image" src="https://github.com/user-attachments/assets/1a3c93b2-2f70-4e45-a96b-9acbbed3bf2f" />
 
- ### 3. Step 3:- To check the Datatype
+ ### Step 3:- To check the Datatype
+ * Check for Column datatype
 <img width="435" height="469" alt="image" src="https://github.com/user-attachments/assets/6cf5d3f3-4df9-4b94-936f-8452daab0bd7" />
 
-### 4. Step 4:- To Check Null Values 
+### Step 4:- To Check Null Values 
+* Null Values
 <img width="583" height="712" alt="image" src="https://github.com/user-attachments/assets/b3d8eb3a-5dd0-4414-a400-9fe4baeb2703" />
-* Treating Null Values
+* Check for Nulls
 <img width="1167" height="621" alt="image" src="https://github.com/user-attachments/assets/4f53f4b0-0310-4631-9308-14fde85b1b7d" />
+* After Treating Nulls
+<img width="1127" height="520" alt="image" src="https://github.com/user-attachments/assets/d8e8110c-b9eb-4096-95f8-f67a98092060" />
 
+ ### Step 5:- To Check Gender Column 
+ * Checking Gender Column
+ <img width="311" height="251" alt="image" src="https://github.com/user-attachments/assets/a63554e8-0e7f-4465-9271-1afa6ffb79e8" />
+ * After Updating
+ <img width="310" height="285" alt="image" src="https://github.com/user-attachments/assets/af30171f-4984-46f2-9718-238c6d5f5bcb" />
+
+ ### Step 6:- To Check Payment_mode Column
+ * Checking Payment_mode Column
+ <img width="310" height="285" alt="image" src="https://github.com/user-attachments/assets/ae407f1d-7949-4484-8860-790ad1dbe85c" />
+ * After Updating
+ <img width="450" height="256" alt="image" src="https://github.com/user-attachments/assets/37fac5bc-6dce-4036-b18a-1113348ad024" />
 
 
 
