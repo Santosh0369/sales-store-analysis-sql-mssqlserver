@@ -92,7 +92,7 @@ The dataset consists of the following key tables/files:
  ### Step 6:- To Check Payment_mode Column
  
  * After Updating
- <img width="450" height="256" alt="image" src="https://github.com/user-attachments/assets/37fac5bc-6dce-4036-b18a-1113348ad024" />
+<img width="333" height="296" alt="image" src="https://github.com/user-attachments/assets/19d01b18-c5e6-42e6-b45b-0000bc7c244d" />
 
 
 ## 4. 🔍 Insights Deep Dive
