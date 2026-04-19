@@ -39,24 +39,6 @@ The dataset consists of the following key tables/files:
 * Fact Table: `store_sales`
 ---
 
-## 3. 📈 Executive Summary
-
-### Key Findings:
-
-* 💰 Total Revenue: **$XXX,XXX**
-* 📦 Total Orders: **X,XXX**
-* 📊 Average Order Value: **$XX**
-* 🏆 Top Category: *Electronics*
-* 📅 Peak Sales Month: *December*
-
-### Business Impact:
-
-* Identified high-performing products contributing to ~XX% of revenue
-* Seasonal trends show significant spikes during festive periods
-* Customer segmentation highlights repeat buyers as major revenue drivers
-
----
-
 ## 3. 🧹 Data Cleaning
 
 ### Step 1:- To check for Duplicate 
