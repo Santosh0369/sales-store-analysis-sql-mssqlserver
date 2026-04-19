@@ -90,35 +90,16 @@ The dataset consists of the following key tables/files:
  <img width="310" height="285" alt="image" src="https://github.com/user-attachments/assets/af30171f-4984-46f2-9718-238c6d5f5bcb" />
 
  ### Step 6:- To Check Payment_mode Column
- * Checking Payment_mode Column
- <img width="310" height="285" alt="image" src="https://github.com/user-attachments/assets/ae407f1d-7949-4484-8860-790ad1dbe85c" />
+ 
  * After Updating
  <img width="450" height="256" alt="image" src="https://github.com/user-attachments/assets/37fac5bc-6dce-4036-b18a-1113348ad024" />
 
 
-
 ## 4. 🔍 Insights Deep Dive
 
-### 📊 Sales Trends
+### 
 
-* Sales show a steady upward trend with peaks during holiday seasons
-* Monthly growth rate averages around X%
 
-### 🛒 Product Performance
-
-* Top 10 products contribute to nearly XX% of total revenue
-* Low-performing products identified for potential discontinuation
-
-### 👥 Customer Analysis
-
-* Repeat customers contribute significantly higher revenue than new customers
-* High-value customers identified based on purchase frequency and spend
-
-### 🌍 Regional Insights (if applicable)
-
-* Region A leads in sales, followed by Region B
-* Region C shows potential for growth
----
 
 ## 5. 💡 Recommendations
 
