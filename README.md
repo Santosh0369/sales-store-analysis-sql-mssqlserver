@@ -5,7 +5,7 @@
 
 ## 1. 📌 Background and Overview
 
-This project focuses on analyzing retail sales data to uncover actionable insights that can support business decision-making. The dataset contains transactional-level data including sales, quantity, pricing, and customer behavior.
+This project focuses on analysing retail sales data to uncover actionable insights to support business decision-making. The dataset contains transactional-level data, including sales, quantity, pricing, and customer behaviour.
 
 The goal of this project is to:
 
@@ -56,6 +56,15 @@ The dataset consists of the following key tables/files:
 * Customer segmentation highlights repeat buyers as major revenue drivers
 
 ---
+
+## 3. 🧹 Data Cleaning
+
+### 1. ➿ 	--Step 1:- To check for Duplicate 
+
+* <img width="418" height="297" alt="image" src="https://github.com/user-attachments/assets/83f33850-0c99-48e1-a5c8-ad6505f2df3a" />
+* Deleting Duplicates
+* <img width="747" height="337" alt="image" src="https://github.com/user-attachments/assets/6cd7b895-810a-4cf2-97c2-3086ee595273" />
+
 
 ## 4. 🔍 Insights Deep Dive
 
